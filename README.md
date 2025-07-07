@@ -1,24 +1,22 @@
 ![MasterHead](https://images.unsplash.com/photo-1674027444485-cec3da58eef4?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 <h1 align="center">Hi 👋, I'm Yogesh solanki</h1>
-<h3 align="center">A passionate Full-stack developer from India</h3>
+<h3 align="center">A passionate Product developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feelcoderr&label=Profile%20views&color=0e75b6&style=flat" alt="feelcoderr" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yogesh76m" target="blank"><img src="https://img.shields.io/twitter/follow/yogesh76m?logo=twitter&style=for-the-badge" alt="yogesh76m" /></a> </p>
 
-- 🔭 I’m currently working on [Bookmyshow-clon](https://book-my-show-clon.vercel.app/)
+- 🔭 I’m currently working on [Azent.in](https://azent.in/)
 
-- 🌱 I’m currently learning **ReactJs & PHP**
+- 🌱 I’m currently learning **Ai-Agents**
 
-- 👨‍💻 I’m looking to Full time Opportunity **as Software developer**
+- 👨‍💻 I’m looking to Full time Opportunity **as Tech Founder**
 
-- 👨‍💻 All of my projects are available at [https://dev-feelcoder.pantheonsite.io/](https://dev-feelcoder.pantheonsite.io/)
+- 👨‍💻 All of my projects are available at [https://feelcoder.vercel.app/](https://feelcoder.vercel.app/)
 
-- 💬 Ask me about **DSA, Java, JavaScript, MERN, Wordpress, Vue.js,**
+- 💬 Ask me about **Ai-Agents, MERN Stack, Dev-Ops, DSA, Java, JavaScript, MERN, Wordpress**
 
 - 📫 How to reach me **feelcodder@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/156__aZwzUA8gPUlu4Fwhb0RBsJZM4xKMTnDyv14oIag/edit?usp=sharing](https://docs.google.com/document/d/156__aZwzUA8gPUlu4Fwhb0RBsJZM4xKMTnDyv14oIag/edit?usp=sharing)
 
 - ⚡ Fun fact about me is **I will choose to Read books over scrolling social media.**
 
