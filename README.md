@@ -1,4 +1,4 @@
-![MasterHead](https://images.unsplash.com/photo-1674027444485-cec3da58eef4?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm Yogesh solanki</h1>
 <h3 align="center">A passionate Product developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
