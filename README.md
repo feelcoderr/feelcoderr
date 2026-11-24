@@ -6,19 +6,19 @@
 
 <p align="left"> <a href="https://twitter.com/yogesh76m" target="blank"><img src="https://img.shields.io/twitter/follow/yogesh76m?logo=twitter&style=for-the-badge" alt="yogesh76m" /></a> </p>
 
-- 🔭 I’m currently working on [Azent.in](https://azent.in/)
+- I’m currently working on [Azent.in](https://azent.in/)
 
-- 🌱 I’m currently learning **Ai-Agents**
+- I’m currently learning **Ai-Agents**
 
-- 👨‍💻 I’m looking to Full time Opportunity **as Tech Founder**
+- I’m looking to Full time Opportunity **as Tech Founder**
 
-- 👨‍💻 All of my projects are available at [https://feelcoder.vercel.app/](https://feelcoder.vercel.app/)
+- All of my projects are available at [https://feelcoder.vercel.app/](https://feelcoder.vercel.app/)
 
-- 💬 Ask me about **Ai-Agents, MERN Stack, Dev-Ops, DSA, Java, JavaScript, MERN, Wordpress**
+- Ask me about **Ai-Agents, MERN Stack, Dev-Ops, DSA, Java, JavaScript, MERN, Wordpress**
 
-- 📫 How to reach me **feelcodder@gmail.com**
+- How to reach me **feelcodder@gmail.com**
 
-- ⚡ Fun fact about me is **I will choose to Read books over scrolling social media.**
+- Fun fact about me is **I will choose to Read books over scrolling social media.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
